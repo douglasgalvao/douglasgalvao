@@ -1,16 +1,4 @@
 
-
-<br><br>
-
-  
-  <strong> Desenvolvedor de Projetos e Fã Da Tecnologia em sí </strong>
-  <p> 💻 Graduando em Engenharia de Software e pioneiro da Computação 📚 </p> <br> 
-  <hr>
-  - Estudo para arquitetar as melhores soluções para meus problemas encontrados com o tempo.
-
-  - Toda tecnologia é válida se resolve meus problemas
-  - Uma boa prática é sempre bem vinda!
-  
 ### Programming Languages
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
