@@ -12,10 +12,15 @@ Atualmente, meus principais interesses estão em:
 
 🚀 Stack atual:
 Frontend: Vue.js 3, Angular (6+ / 16)
+
 Backend: PHP (Laravel), Node.js (Express), Python (FastAPI), Java (Spring Boot)
+
 DevOps: Docker (Dockerfile e Compose), Git (GitHub/GitLab), CI/CD (GitHub Actions)
+
 Banco de Dados: SQL Server,PostgreSQL, MongoDB, MySQL, 
+
 Plataformas e Services: Aws SQS,Aws S3, AWS Lambda, Azure DevOps, Jira
+
 Outros: REST APIs, GraphQL, Cypress, metodologias ágeis (Scrum)
 
 
