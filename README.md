@@ -11,9 +11,11 @@ Atualmente, meus principais interesses estão em:
 ⚙️ Arquitetura baseada em eventos, Arquitetura Distribuída, Micro-Serviços
 
 🚀 Stack atual:
+Mobile: Flutter
+
 Frontend: Vue.js 3, Angular (6+ / 16)
 
-Backend: PHP (Laravel), Node.js (Express), Python (FastAPI), Java (Spring Boot)
+Backend: PHP (Laravel), Dart, Node.js (Express), Python (FastAPI), Java (Spring Boot)
 
 DevOps: Docker (Dockerfile e Compose), Git (GitHub/GitLab), CI/CD (GitHub Actions)
 
