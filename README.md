@@ -1,3 +1,24 @@
+### ABOUT
+
+Desenvolvedor Fullstack com 3+ anos de experiência em projetos web e mobile, atuando com foco em boas práticas de arquitetura, escalabilidade e código limpo. Respiro tecnologia e estou sempre buscando novas formas de resolver problemas de forma simples e eficiente.
+
+📚 Cursando Engenharia de Software na PUC Minas (conclusão em 2026), tenho experiência com web e mobile, .
+
+Atualmente, meus principais interesses estão em:
+
+✳️ Design Pattern e Clean Architecture aplicada ao desenvolvimento mobile
+
+⚙️ Arquitetura baseada em eventos, Arquitetura Distribuída, Micro-Serviços
+
+🚀 Stack atual:
+Frontend: Vue.js 3, Angular (6+ / 16)
+Backend: PHP (Laravel), Node.js (Express), Python (FastAPI), Java (Spring Boot)
+DevOps: Docker (Dockerfile e Compose), Git (GitHub/GitLab), CI/CD (GitHub Actions)
+Banco de Dados: SQL Server,PostgreSQL, MongoDB, MySQL, 
+Plataformas e Services: Aws SQS,Aws S3, AWS Lambda, Azure DevOps, Jira
+Outros: REST APIs, GraphQL, Cypress, metodologias ágeis (Scrum)
+
+
 
 ### Programming Languages
 <div>
