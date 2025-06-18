@@ -8,7 +8,7 @@ Atualmente, meus principais interesses estão em:
 
 ✳️ Design Pattern e Clean Architecture aplicada ao desenvolvimento mobile
 
-⚙️ Arquitetura baseada em eventos, Arquitetura Distribuída, Micro-Serviços
+⚙️ Arquitetura baseada em eventos, Arquitetura Distribuída, Micro-Serviços , Mensageria
 
 🚀 Stack atual:
 
