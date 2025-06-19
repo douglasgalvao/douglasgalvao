@@ -1,6 +1,6 @@
 ### ABOUT
 
-Desenvolvedor Fullstack com 3+ anos de experiência em projetos web e mobile, atuando com foco em boas práticas de arquitetura, escalabilidade e código limpo. Respiro tecnologia e estou sempre buscando novas formas de resolver problemas de forma simples e eficiente.
+Desenvolvedor Fullstack com 4+ anos de experiência em projetos web e mobile, atuando com foco em boas práticas de arquitetura, escalabilidade e código limpo. Respiro tecnologia e estou sempre buscando novas formas de resolver problemas de forma simples e eficiente.
 
 📚 Cursando Engenharia de Software na PUC Minas (conclusão em 2026), tenho experiência com web e mobile, .
 
