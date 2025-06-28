@@ -20,6 +20,8 @@ Backend: PHP (Laravel), Dart, Node.js (Express), Python (FastAPI), Java (Spring 
 
 DevOps: Docker (Dockerfile e Compose), Git (GitHub/GitLab), CI/CD (GitHub Actions)
 
+Mensageria: Kafka & RabbitMQ
+
 Banco de Dados: SQL Server,PostgreSQL, MongoDB, MySQL, 
 
 Plataformas e Services: Aws SQS,Aws S3, AWS Lambda, Azure DevOps, Jira
