@@ -15,7 +15,9 @@ Atualmente, meus principais interesses estão em:
 
 Protocols: Rest - RestFull - Websocket - WebRTC - GraphQL
 Mobile: Flutter
+
 Frontend: Vue.js 3, Angular (6+ / 16)
+
 Backend: PHP (Laravel), Dart, Node.js (Express), Python (FastAPI), Java (Spring Boot)
 DevOps: Docker (Dockerfile e Compose), Git (GitHub/GitLab), CI/CD (GitHub Actions)
 Mensageria: Apache Kafka & RabbitMQ
