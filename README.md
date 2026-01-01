@@ -7,7 +7,7 @@ Actually, My principal interests are improving:
 Protocols: Rest - RestFull - Websocket - WebRTC - GraphQL
 #### Mobile: Flutter
 #### Frontend: Vue.js 3, Angular (6+ / 16)
-#### Backend: PHP (Laravel), Dart, Node.js (Express), Python (FastAPI), Java (Spring Boot)
+#### Backend: PHP (Laravel), Dart, Nest.js (Node), Java (Spring Boot)
 #### DevOps: Docker (Dockerfile e Compose), Git (GitHub/GitLab), CI/CD (GitHub and Gitlab Actions)
 #### Mensageria: Apache Kafka & RabbitMQ
 #### Banco de Dados: SQL Server Managment, MySQL, PostgreSQL, MongoDB
