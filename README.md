@@ -1,6 +1,6 @@
 ### ABOUT
-Desenvolvedor Fullstack com anos de experiência em projetos web e mobile.
-Atualmente, meus principais interesses estão em aprimorar:
+Developer Fullstack with years experience in mobile and web projects.
+Actually, My principal interests are improving:
 ✳️ Haskell, C++ e Rust.
 
 🚀 Stack que trabalho atualmente:
