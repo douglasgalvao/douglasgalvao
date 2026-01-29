@@ -1,10 +1,9 @@
 ### ABOUT
 Developer Fullstack with years experience in mobile and web projects.
 Actually, My principal interests are improving:
-✳️ Haskell, C++ e Rust.
+✳️ Haskell, C++, Rust, Go and differnt patterns to solve.
 
-🚀 Stack que trabalho atualmente:
-Protocols: Rest - RestFull - Websocket - WebRTC - GraphQL
+🚀 Stack that I work nowadays:
 #### Mobile: Flutter
 #### Frontend: Vue.js 3, Angular (6+ / 16)
 #### Backend: PHP (Laravel), Dart, Nest.js (Node), Java (Spring Boot)
@@ -14,6 +13,7 @@ Protocols: Rest - RestFull - Websocket - WebRTC - GraphQL
 #### Plataformas de gestão de desenvolvimento: Azure DevOps , Jira
 #### Services in Cloud: SQS,S3,Lambda,EC2
 #### Tests End-to-end: Cypress, Puppeter and Playwright
+Protocols: Rest - RestFull - Websocket - WebRTC - GraphQL
 
 
 
